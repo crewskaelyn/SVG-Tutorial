@@ -4,9 +4,9 @@ Before diving into creating SVGs, let's set up the tools you need and understand
 
 ---
 
-## **Tools You Need**  
+## Tools You Need
 
-### **1. Code Editor**  
+### 1. Code Editor
 To create and edit SVGs, you'll need a text editor or code editor. Here are some options:  
 
 - Visual Studio Code (recommended)  
@@ -14,7 +14,7 @@ To create and edit SVGs, you'll need a text editor or code editor. Here are some
 - Atom  
 - Even a basic editor like Notepad will work for simple examples.  
 
-### **2. Optional Design Tools**  
+### 2. Optional Design Tools 
 For complex SVGs, you might use a graphic design software like:  
 - Inkscape (Free and open-source)  
 - Adobe Illustrator  
@@ -22,7 +22,7 @@ For complex SVGs, you might use a graphic design software like:
 
 ---
 
-## **Basic Scructure of an SVG File**  
+## Basic Scructure of an SVG File  
 
 An SVG file is written in XML format, which means it's a tree structure with elements and attributes.  
 
@@ -33,21 +33,21 @@ Here's a simple example:
 </svg>
 ```
 
-### **Explanation of the Code:**  
+### Explanation of the Code:  
 
-1. `<svg>` Tag  
+1. **`<svg>` Tag**  
 The root element that defines the SVG canvas.  
-- `xmlns` specifies the XML namespace. Always include this.  
-- `width` and `height` define the canvas size.  
-2. `<rect>` Tag  
+    - `xmlns` specifies the XML namespace. Always include this.  
+    - `width` and `height` define the canvas size.  
+2. **`<rect>` Tag**  
 Defines a rectangle shape.
-- `x` and `y`: Starting position of the rectangle.
-- `width` and `height`: Size of the rectangle.
-- `fill`: Color of the rectangle.
+    - `x` and `y`: Starting position of the rectangle.
+    - `width` and `height`: Size of the rectangle.
+    - `fill`: Color of the rectangle.
 
 ---
 
-## **Next Steps**
+## Next Steps
 
 Learn how to view your SVGs in different environments in the next section.  
 **[Next: Viewing SVGs](./3viewing-svg.md)**.

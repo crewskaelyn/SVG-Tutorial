@@ -28,10 +28,11 @@ An SVG file is written in XML format, which means it's a tree structure with ele
 
 Here's a simple example:  
 ```xml
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
-  <rect x="10" y="10" width="100" height="100" fill="blue" />
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+  <rect x="10" y="10" width="200" height="100" fill="blue" />
 </svg>
 ```
+<img src="./svgs/getting-started.svg" alt="Blue Rectangle" />
 
 ### Explanation of the Code:  
 

@@ -9,4 +9,4 @@ This tutorial teaches the basics of Scalable Vector Graphics (SVGs), a versatile
 This tutorial is designed for beginners who have basic knowledge of web technologies like HTML and CSS. No prior experience with SVGs is required.
 
 ---
-- **[Next: Introduction to SVGs](./introduction.md)**  
+- **[Next: Introduction to SVGs](./1introduction.md)**  

@@ -53,6 +53,6 @@ Here are just a few places where SVGs shine:
 ## **Next Steps**
 
 Now that you know what SVGs are and why they’re amazing, it’s time to dive in!  
-Move on to the next section: **[Getting Started with SVGs](./2getting-started.mdgetting-started.md)**.
 
+- Move on to the next section: **[Getting Started with SVGs](./2getting-started.md)**.
 - Or return to the **[Home Page](./README.md)**.

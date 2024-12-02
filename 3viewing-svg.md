@@ -30,7 +30,7 @@ You can also include SVGs directly in an HTML document:
 ---
 
 ## Option 3: Use Online Editors
-Tools like <a href="https://codepen.io/" target="_blank">CodePen</a> and <a href="https://jsfiddle.net/" target="_blank">JSFiddle</a> let you test SVGs in real-time.  
+Tools like [CodePen](https://codepen.io/) and [JsFiddle](https://jsfiddle.net/) let you test SVGs in real-time.  
 
 ---
 

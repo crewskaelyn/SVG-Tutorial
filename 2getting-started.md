@@ -32,7 +32,7 @@ Here's a simple example:
   <rect x="10" y="10" width="200" height="100" fill="blue" />
 </svg>
 ```
-<img src="./svgs/getting-started.svg" alt="Blue Rectangle" />
+
 
 ### Explanation of the Code:  
 

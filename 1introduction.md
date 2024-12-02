@@ -4,7 +4,7 @@ Welcome to the world of **Scalable Vector Graphics (SVGs)**! SVGs are a powerful
 
 ---
 
-## **What Are SVGs?**
+## What Are SVGs?
 
 SVGs are a type of image format that defines graphics using mathematical instructions rather than pixels. Unlike raster images (e.g., JPEGs or PNGs), which lose quality when resized, SVGs remain crisp and clear at any scale. This makes them ideal for a wide range of applications, including:
 
@@ -19,7 +19,7 @@ SVGs are a type of image format that defines graphics using mathematical instruc
 
 ---
 
-## **Benefits of SVGs**
+## Benefits of SVGs
 
 SVGs offer several advantages over traditional image formats:
 
@@ -40,7 +40,7 @@ SVGs offer several advantages over traditional image formats:
 
 ---
 
-## **Real-World Examples**
+## Real-World Examples
 
 Here are just a few places where SVGs shine:
 
@@ -50,7 +50,7 @@ Here are just a few places where SVGs shine:
 
 ---
 
-## **Next Steps**
+## Next Steps
 
 Now that you know what SVGs are and why they’re amazing, it’s time to dive in!  
 

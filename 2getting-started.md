@@ -1,4 +1,4 @@
-## Getting Started with SVGs  
+# Getting Started with SVGs  
 
 Before diving into creating SVGs, let's set up the tools you need and understand the basic structure of an SVG file. By the end of this section, you'll be ready to create your first SVG!  
 

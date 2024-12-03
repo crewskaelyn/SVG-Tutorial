@@ -57,7 +57,7 @@ CSS animations can be applied to SVGs just like any HTML element. Here's an exam
 
 ## **Next Steps**
 
-Now that you've learned how to animate SVGs, you can experiment with more complex animations andinteractions!  
+Now that you've learned how to animate SVGs, you can experiment with more complex animations and interactions!  
 **[Next: Example Projects](./7examples.md)**.  
 
 - Or revisit the **[Text and Colors Guide](./5text-and-colors.md)**.  

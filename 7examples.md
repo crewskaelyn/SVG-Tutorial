@@ -34,7 +34,7 @@ You can make interactive infographics by adding interactivity with JavaScript. H
 </svg>
 ```
 
-Github does not allow SVGs to execute JavaScript for several reasons.  
+Github does not allow SVGs to execute JavaScript for security reasons.  
 Do this one on your own or check out the example on [JSFiddle](https://jsfiddle.net/ynshbd8p/1/).
 
 ### Explanation:

@@ -16,6 +16,8 @@ You can animate attributes in SVG by using the `<animate>` element. Here's an ex
 </svg>
 ```
 
+<img src="./svgs/animate.svg" alt="Animated rectangle">
+
 ### Explanation: 
 - `<animate>`: Defines the animation.
 - `attributeName`: The attribute to animate (e.g., `x`, `y`, `width`, `height`, etc.).
@@ -46,6 +48,8 @@ CSS animations can be applied to SVGs just like any HTML element. Here's an exam
   }
 </style>
 ```
+
+<img src="./svgs/animated-circle.svg" alt="Animated Green Circle" />
 
 ### Explanation:
 - **CSS Animation**: Using `@keyframes` to define the animation sequence.

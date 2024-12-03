@@ -9,7 +9,7 @@ In this section, we will learn how to add text and color to your SVGs, making th
 You can add text to your SVG using the `<text>` element. Here's an example:  
 
 ```xml
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100">
   <text x="50" y="50" font-family="Arial" font-size="24" fill="black">Hello, SVG!</text>
 </svg>
 ```
@@ -75,6 +75,7 @@ You can create more dynamic colors with gradients. Here's an example of a linear
   - `id`: The unique identifier for the gradient.
   - `x1`, `y1`, `x2`, `y2`: Define the direction of the gradient.
 - `<stop>`: Defines color stops within the gradient.
+- `url`: Calling the unique id from the reusable gradient you created.
 
 ---
 

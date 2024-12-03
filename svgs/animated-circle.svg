@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <circle cx="100" cy="100" r="50" fill="green" class="animate-circle" />
+</svg>
+
+<style>
+  .animate-circle {
+    animation: moveCircle 3s infinite;
+  }
+
+  @keyframes moveCircle {
+    0% { cx: 100; cy: 100; }
+    50% { cx: 200; cy: 100; }
+    100% { cx: 100; cy: 100; }
+  }
+</style>

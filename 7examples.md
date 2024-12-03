@@ -1,6 +1,6 @@
 ## Example Projects with SVGs
 
-In this section, we'll explote some example projects using SVGs. These projects will help you see how SVGs can be used in practical applications.  
+In this section, we'll explore some example projects using SVGs. These projects will help you see how SVGs can be used in practical applications.  
 
 ---
 
